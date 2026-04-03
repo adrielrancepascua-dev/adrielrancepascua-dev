@@ -1,85 +1,62 @@
-# Rance Adriel Pascua — Full-Stack Web Developer | Nursing & Healthcare Tech Specialist
+# Rance Adriel Pascua — Clinical Workflow Engineer & Full‑Stack Developer
 
 - **Email:** adrielrancepascua@gmail.com
-- **Phone:** +63 945 490 3281 (Philippines)
 - **GitHub:** https://github.com/adrielrancepascua-dev
 
-## Professional Summary
+## TL;DR
 
-Full-stack web developer experienced in building and deploying production applications across healthcare, retail, and internal business systems. I combine technical expertise in React, TypeScript, and modern frontend frameworks with domain knowledge from nursing education—enabling thoughtful design for regulated industries and real-world workflows. Skilled in rapid prototyping, feature iteration, and shipping production-ready applications. Based in the Philippines and available for overnight development cycles supporting US teams.
+Full‑stack developer who builds production web apps that solve real workflow problems. Nursing student — I design software like clinicians: fast, safe, and resilient under pressure.
 
-## Featured Projects
+Stack: Next.js • React • TypeScript • Tailwind • PWAs
 
-### OUR Cafe — Digital Triage & Operations Demo
+Based in the Philippines (UTC+8) — I ship while US teams sleep.
 
-- **Description:** Brand-forward, industrial-minimalist demo for a specialty cafe that solves long-line friction with a nurse-inspired triage system. The project showcases a premium hero experience, an offline-capable PWA, an interactive map, a mocked operations API for live wait times and queueing, and a digital-first payment & queue flow.
-- **Key Features:** Hero video background, ProductCard visual menu, mock `/api/queue` for live wait times, `useCafeOperations` hook, "Get In Line" CTA with simulated payment toast, inline Reserve CTA (mobile-friendly), PWA manifest and service worker, responsive layout optimized for performance.
-- **Why it matters:** Applies clinical triage workflows to hospitality operations — prioritizing customer flow and reducing front-counter congestion while improving perceived service quality.
-- **Tech Stack:** Next.js (App Router), React, Tailwind CSS, Framer Motion, next-pwa (Workbox), react-leaflet (map), TypeScript (optional), Node/Next API routes.
-- **Repository:** https://github.com/adrielrancepascua-dev/OUR-cafe
+## Engineering Principles
+
+- Ship fast, iterate faster.
+- Prefer simple systems over premature complexity.
+- Design for real users and real edge cases.
+- Prioritize reliability and safety (offline-first when it matters).
+
+## Featured Projects (short, scannable)
+
+### OUR Cafe — Operations queue & digital triage
+Problem: long lines and chaotic ordering at specialty cafes.
+Solution: nurse-style triage queue with a "Get in Line" flow, mock operations API for live wait times, PWA offline support, and an interactive map.
+Stack: Next.js • React • Tailwind • PWA • Leaflet
+Key systems: mocked `/api/queue`, `useCafeOperations` hook, hero video, ProductCard menu, queue/payment CTA.
+Repo: https://github.com/adrielrancepascua-dev/OUR-cafe
 
 ---
 
-### NursePath — Healthcare Education PWA
+### NursePath — Healthcare education PWA
+Offline-first study aids for nursing students (vital-signs interpreter, IV calculators, obstetric tools).
+Stack: HTML/JS • Service Worker (PWA)
+Repo: https://github.com/adrielrancepascua-dev/block9nurseapp
 
-- **Description:** Academic simulation tool designed for nursing students. Offline-first study companion.
-- **Key Features:** Vital signs interpreter (age-adjusted ranges), IV flow rate calculators (mL/hr & drop rate), obstetric metrics (AOG & EDD), BMI tracking, searchable OTC medication database.
-- **Why it matters:** Reflects real clinical workflow understanding and patient safety logic, not just theoretical design.
-- **Tech Stack:** HTML5, CSS3, JavaScript, Service Worker (PWA)
-- **Live Demo:** https://block9nurseapp.vercel.app
-- **Repository:** https://github.com/adrielrancepascua-dev/block9nurseapp
+### ScolioAustin — Clinical prototype (spine assessment)
+Interactive spine visualizer and quick assessment flow for patient education.
+Stack: Next.js • React • Tailwind
+Repo: https://github.com/adrielrancepascua-dev/scolioaustin
 
-### ScolioAustin — Clinical Prototype (Spine Assessment & Visualization)
+### CounterFlow POS — Retail POS
+Browser-based POS with cashier/owner roles and fast item entry.
+Stack: JavaScript • localStorage
+Repo: https://github.com/adrielrancepascua-dev/sales
 
-- **Description:** Interactive clinical prototype for scoliosis assessment and visualization.
-- **Key Features:** Interactive spine visualizer (SVG), curvature-to-annotation mapping, multi-step quick assessment, PWA manifest and offline-ready service-worker, exportable views for patient education.
-- **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Lucide-React, next-pwa
-- **Live Demo:** https://scolioaustin.vercel.app/
-- **Repository:** https://github.com/adrielrancepascua-dev/scolioaustin
+### Café BrewsCo • Stay Awhile Café & Vocaloids
+Smaller storefronts and UI experiments showcasing responsive design and component systems.
+Repos: https://github.com/adrielrancepascua-dev/cafe-brewsco, https://github.com/adrielrancepascua-dev/cafe-flowershop, https://github.com/adrielrancepascua-dev/vocaloids
 
-### CounterFlow POS — Retail Sales Management System
+## Skills
 
-- **Description:** Browser-based point-of-sale system for fast-moving retail environments.
-- **Key Features:** Dual-role interface (Cashier / Owner), quick-select preset items, shift management, and transaction tracking by payment method (GCash, Cash, Card).
-- **Tech Stack:** JavaScript, HTML5, CSS3, localStorage API
-- **Live Demo:** https://sales-umber-alpha.vercel.app
-- **Repository:** https://github.com/adrielrancepascua-dev/sales
-
-### Café BrewsCo — E-Commerce Storefront
-
-- **Description:** Modern responsive website for a specialty coffee shop showcasing brand and menu.
-- **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Framer Motion
-- **Live Demo:** https://cafe-brewsco.vercel.app
-- **Repository:** https://github.com/adrielrancepascua-dev/cafe-brewsco
-
-### Stay Awhile Café & Bakery — Full-Stack Operations Platform
-
-- **Description:** Integrated system combining a public storefront with an internal staff dashboard and POS foundations.
-- **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Framer Motion
-- **Live Demo:** https://flower-backoffice-demo.vercel.app
-- **Repository:** https://github.com/adrielrancepascua-dev/cafe-flowershop
-
-### Vocaloids — UI/UX Experimentation
-
-- **Description:** Interactive UI/UX experimentation exploring component patterns and dynamic rendering.
-- **Tech Stack:** React, TypeScript, Tailwind CSS, Framer Motion
-- **Live Demo:** https://vocaloids.vercel.app
-- **Repository:** https://github.com/adrielrancepascua-dev/vocaloids
-
-## Technical Skills
-
-- **Frontend Development:** React, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
-- **Tools & Development:** Git, GitHub, VS Code, AI-assisted development workflows
-- **Architecture & Deployment:** Progressive Web Apps (PWA), Client-side storage APIs, Responsive design systems, Production deployment via Vercel
-
-## Why Work With Me
-
-- **Real-world experience:** Built production applications handling actual transactions, user safety, and complex workflows.
-- **Quick shipping:** Comfortable iterating fast and picking up existing codebases immediately to deliver features daily.
-- **Full-stack capable:** Expertise in frontend logic, service layer architecture, and production deployment.
-- **Domain-aware development:** Nursing background translates to a deep understanding of compliance and user safety.
-- **Timezone advantage:** Based in the Philippines (UTC+8). Your US team wakes up to completed work and reviewed pull requests.
+- Frontend: React, Next.js, TypeScript, Tailwind CSS
+- PWAs, client-side storage, responsive systems
+- Tools: Git, GitHub, VS Code, Vercel
 
 ## Availability
 
-Open to contract work, project-based development, and agency overflow support.
+Open to contract work and short-term engagements. Comfortable iterating quickly and shipping small, reliable systems.
+
+--
+*If you want this as your GitHub profile README, I can copy it to a new repo named after your username and push it for you.*
