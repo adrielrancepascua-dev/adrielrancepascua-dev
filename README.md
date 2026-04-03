@@ -58,5 +58,3 @@ Repos: https://github.com/adrielrancepascua-dev/cafe-brewsco, https://github.com
 
 Open to contract work and short-term engagements. Comfortable iterating quickly and shipping small, reliable systems.
 
---
-*If you want this as your GitHub profile README, I can copy it to a new repo named after your username and push it for you.*
