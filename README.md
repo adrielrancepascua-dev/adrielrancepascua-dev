@@ -1,5 +1,5 @@
 # Rance Adriel Pascua 🥖
-3rd-Year Nursing Student 🩺 | Full-Stack Developer 💻 | Kasane Teto Enthusiast 🧬
+2nd-Year Nursing Student 🩺 | Full-Stack Developer 💻 | Kasane Teto Enthusiast 🧬
  * **Email:** adrielrancepascua@gmail.com
  * **GitHub:** adrielrancepascua-dev
 ## TL;DR
