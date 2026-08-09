@@ -45,4 +45,4 @@ Front desk ops suite for a small Philippine hotel. Check in, folio charges, chec
 Live: [hotel-system-demo.vercel.app](https://hotel-system-demo.vercel.app) · Repo: [hotel-system-demo](https://github.com/adrielrancepascua-dev/hotel-system-demo)
 
 **Other shipped work**  
-Cafe and shop demos (`cafe-brewsco`, `chef-s-cafe`, `OUR-cafe`, `kanto-cafe`, `flowershop-demo`), booking UI (`Stay-Awhile`), sales tools (`sales`), personal site (`portfolio`), and automation experiments (`n8n-rance`). Full list on my [GitHub profile](https://github.com/adrielrancepas
+Cafe and shop demos (`cafe-brewsco`, `chef-s-cafe`, `OUR-cafe`, `kanto-cafe`, `flowershop-demo`), booking UI (`Stay-Awhile`), sales tools (`sales`), personal site (`portfolio`), and automation experiments (`n8n-rance`). Full list on my [GitHub profile](https://github.com/adrielrancepascua-dev)
