@@ -4,7 +4,6 @@ Nursing student who builds software for real clinics, shops, and front desks.
 
 **3rd Year BSN**, Universidad de Dagupan  
 Poblacion, Aguilar, Pangasinan  
-Born July 31, 2005 in Aguilar, Pangasinan
 
 [adrielrancepascua@gmail.com](mailto:adrielrancepascua@gmail.com) | 09454903281  
 [github.com/adrielrancepascua-dev](https://github.com/adrielrancepascua-dev)
