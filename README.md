@@ -26,7 +26,7 @@ Presidential Scholar, First Year
 ## Experience
 
 **Freelance Developer**, Papers & Petals (paying client)  
-Built and maintains [cafe-flowershop](https://github.com/adrielrancepascua-dev/cafe-flowershop), the back office for Papers & Petals across Dagupan, San Carlos, and Urdaneta. Covers staff login, multi branch orders, inventory transfers, expenses, and branch sales reports. Live demo: [flower-backoffice-demo.vercel.app](https://flower-backoffice-demo.vercel.app)
+Built and maintains [cafe-flowershop](https://github.com/adrielrancepascua-dev/cafe-flowershop), the live back office for Papers & Petals across 3 branches in Dagupan, San Carlos, and Urdaneta. More than 10 employees use it every day. The shop has left paper records behind entirely, with a cleaner cash flow and no more money tracking errors in day to day work. When an order needs an edit, whether from a staff mistake or a customer change of mind, requests go through a Messenger group chat where the owner and a co admin I assigned make those edits. Covers staff login, multi branch orders, inventory transfers, expenses, and branch sales reports. Live demo: [flower-backoffice-demo.vercel.app](https://flower-backoffice-demo.vercel.app)
 
 **Shop Attendant**, Buks' Computershop, 2014 to 2021  
 Watched over the family internet cafe. Learned customer service, basic PC upkeep, and how to keep a small tech business running day to day.
@@ -46,16 +46,4 @@ Front desk ops suite for a small Philippine hotel. Check in, folio charges, chec
 Live: [hotel-system-demo.vercel.app](https://hotel-system-demo.vercel.app) · Repo: [hotel-system-demo](https://github.com/adrielrancepascua-dev/hotel-system-demo)
 
 **Other shipped work**  
-Cafe and shop demos (`cafe-brewsco`, `chef-s-cafe`, `OUR-cafe`, `kanto-cafe`, `flowershop-demo`), booking UI (`Stay-Awhile`), sales tools (`sales`), personal site (`portfolio`), and automation experiments (`n8n-rance`). Full list on my [GitHub profile](https://github.com/adrielrancepascua-dev).
-
-## Skills
-
-TypeScript, JavaScript, React, HTML, CSS, Vite, Supabase, Vercel, Git, Progressive Web Apps, basic operations tooling for shops and clinics
-
-## Contact
-
-Open to freelance builds, campus tech projects, and roles where nursing context meets software.
-
-Email: adrielrancepascua@gmail.com  
-Phone: 09454903281  
-GitHub: https://github.com/adrielrancepascua-dev
+Cafe and shop demos (`cafe-brewsco`, `chef-s-cafe`, `OUR-cafe`, `kanto-cafe`, `flowershop-demo`), booking UI (`Stay-Awhile`), sales tools (`sales`), personal site (`portfolio`), and automation experiments (`n8n-rance`). Full list on my [GitHub profile](https://github.com/adrielrancepas
